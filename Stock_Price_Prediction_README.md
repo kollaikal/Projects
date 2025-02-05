@@ -1,10 +1,10 @@
-## Stock Price Prediction with Sentiment Analysis
+# Stock Price Prediction with Sentiment Analysis
 This project aims to predict the stock prices of BSE Sensex (BSESN) based on historical stock data and news sentiment. It utilizes machine learning models like Random Forest, Decision Tree, XGBoost, and AdaBoost for regression. The model is enhanced with sentiment analysis of the news headlines, using tools such as TextBlob and VADER for subjectivity and polarity scores.
 
-# Project Overview**
+# Project Overview
 The primary goal of this project is to explore how the sentiments of daily news headlines can impact stock prices. The dataset used in this project includes historical stock price data and news headlines from India, specifically the BSESN stock index. The steps involved in the process include data collection, preprocessing, feature engineering, sentiment analysis, and machine learning modeling for stock price prediction.
 
-# Key Components:**
+# Key Components:
 Stock Data: Historical stock prices from Yahoo Finance.
 News Data: Daily news headlines related to the stock market.
 Sentiment Analysis: Using TextBlob and VADER to analyze news sentiment.
@@ -21,7 +21,7 @@ License
 Installation
 To get started with this project, clone the repository and install the necessary dependencies.
 
-# Clone the repository:**
+# Clone the repository:
 bash
 Copy
 Edit
